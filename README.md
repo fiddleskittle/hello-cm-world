@@ -1,5 +1,6 @@
 # hello-cm-world
 If I knew, I'd tell you
+
 It seems that developers, at least those using github, are far more organized than I ever gave them credit for.
 There are so many similarities between project management on a large scale and developer collaborations on a project-level. 
 I actually like the developer-collab model more, because the process is standardized and automatic.
